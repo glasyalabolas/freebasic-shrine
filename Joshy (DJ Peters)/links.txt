@@ -1,0 +1,13 @@
+libwebp: https://www.freebasic.net/forum/viewtopic.php?t=33096
+FBImage: https://www.freebasic.net/forum/viewtopic.php?t=24105
+OpenCL: https://www.freebasic.net/forum/viewtopic.php?t=24494
+assimp: https://www.freebasic.net/forum/viewtopic.php?t=22798
+SNC: https://www.freebasic.net/forum/viewtopic.php?t=23421
+plutovg: https://www.freebasic.net/forum/viewtopic.php?t=31918
+FbTrueType: https://www.freebasic.net/forum/viewtopic.php?p=224943
+glExtensions.bi: https://www.freebasic.net/forum/viewtopic.php?t=23486
+AntTweakBar: https://www.freebasic.net/forum/viewtopic.php?t=21306
+Horde3D: https://www.freebasic.net/forum/viewtopic.php?t=23969
+Collision stuff: https://www.freebasic.net/forum/viewtopic.php?t=24439
+Bullet lib: https://www.freebasic.net/forum/viewtopic.php?t=29643
+Tokamak physics: https://www.freebasic.net/forum/viewtopic.php?t=28909

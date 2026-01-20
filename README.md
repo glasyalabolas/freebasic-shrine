@@ -1,2 +1,2 @@
-# freebasic-shrine
-The FreeBasic Shrine
+## The FreeBasic Shrine
+This repository is meant for contributions of members from the FreeBasic community that passed away. Let us preserve their work, remember and honor the time and effort they dedicated to the language and its community.
